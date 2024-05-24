@@ -1,4 +1,4 @@
-h1 align="center"> <a href="" target="_blank"> <img src="https://github.com/harshilvadsara/Spotify-Data-Analysis-using-Python-/blob/main/images/social-spotify.svg" alt="Spotify" width="55" height="40"/> </a> Spotify Data Analysis using Python <a href="https://github.com/harshilvadsara/PythonLessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="40"/> </a> </h1>
+<h1 align="center"> <a href="" target="_blank"> <img src="https://github.com/harshilvadsara/Spotify-Data-Analysis-using-Python-/blob/main/images/social-spotify.svg" alt="Spotify" width="55" height="40"/> </a> Spotify Data Analysis using Python <a href="https://github.com/harshilvadsara/PythonLessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="40"/> </a> </h1>
 
 **I'm sharing an Exploratory Data Analysis (EDA) and Data Visualization of the data from Spotify using Python - A Data Analysis Project performed in my journey into Data Science.**
 
